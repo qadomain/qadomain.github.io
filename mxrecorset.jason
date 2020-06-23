@@ -1,0 +1,18 @@
+{
+  "Resources": {
+    "ExampleMXRecord": {
+      "Type": "AWS::Route53::RecordSet",
+      "Properties": {
+        "HostedZoneName": "qadomain.github.io.",
+        "Comment": "My Example MX Record",
+        "Name": "qadomain.github.io.",
+        "Type": "MX",
+        "TTL": "600",
+        "ResourceRecords": [
+          "10 mail1.qadomain.github.io",
+          "20 inbound-smtp.us-west-2.amazonaws.com."
+        ]
+      }
+    }
+  }
+}
