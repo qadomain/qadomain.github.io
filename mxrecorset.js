@@ -2,7 +2,7 @@
 # Content-Type: application/json
  {
    "recordset" : {
-     "name" : "10 mx.qadomain.github.io.",
+     "name" : "mx.qadomain.github.io.",
      "description" : "An MX recordset.",
      "type" : "MX",
      "ttl" : 3600,
