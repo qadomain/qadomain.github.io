@@ -9,7 +9,7 @@
         "Type": "MX",
         "TTL": "600",
         "ResourceRecords": [
-          "mx.qadomain.github.io"
+          "10 mx.qadomain.github.io"
         ]
       }
     }
