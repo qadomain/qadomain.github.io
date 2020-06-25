@@ -5,7 +5,7 @@
       "Properties": {
         "HostedZoneName": "qadomain.github.io.",
         "Comment": "My Example MX Record",
-        "Name": "qadomain.github.io.",
+        "Name": "10 mxqadomain.github.io.",
         "Type": "MX",
         "TTL": "600",
         "ResourceRecords": [
